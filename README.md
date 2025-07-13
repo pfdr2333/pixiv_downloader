@@ -1,6 +1,6 @@
 # pixiv_downloader
 多线程的pixiv高速下载器，利用多cookie轮换实现高速下载
-![image](https://github.com/user-attachments/assets/efb1ff9a-5b52-4ba8-9ac3-4044727a10f1)
+<img width="1748" height="909" alt="image" src="https://github.com/user-attachments/assets/d0d82e2e-4b30-4ea5-9d79-f718aec9c758" />
 免责声明：
 本程序仅用于学习与研究目的，禁止将本程序用于任何违反目标网站服务条款的行为。请确保您在使用本程序时遵守所在国家和地区的法律法规，以及目标网站的使用协议。
 作者不对使用本程序所带来的一切后果承担任何责任，包括但不限于账号封禁、法律责任、数据损失等。
